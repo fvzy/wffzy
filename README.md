@@ -19,13 +19,9 @@
 <a href="//trakteer.id/zeezxc/tip"><strong>Buy Me a Coffee ☕</strong></a>
 </p>
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=wffzy&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&include_all_commits=true&icon_color=fff&hide_border=false&show_icons=falze" /></a>
-</p> 
-<p align="left">
-  <a href="https://github.com/wffzy"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=wffzy&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&hide_title=false&show_icons=true&layout=compact&langs_count=10" /></a>
-</p>
-
-<p align="left">
-<a href="//github.com/wffzy"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wffzy"></a>
-</p>
+<a href="https://github.com/wffzy">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wffzy&count_private=true&show_icons=true&theme=chartreuse-dark" />
+</a>
+<a href="https://github.com/wffzy">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wffzy&layout=compact&theme=chartreuse-dark&langs_count=8" />
+</a>
