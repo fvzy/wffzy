@@ -11,7 +11,7 @@
 
 <p align="center">
   <h3 align="left">Contact with me:</h3>
-  <a href="//instagram.com/wffzy">• <strong>Instagram</strong></a> •
+  • <a href="//instagram.com/wffzy"><strong>Instagram</strong></a> •
   <a href="//youtube.com/@zavyer"><strong>YouTube</strong></a> •
   <a href="//t.me/zeccto"><strong>Telegram</strong></a> •
 </p>
