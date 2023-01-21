@@ -15,10 +15,6 @@
   <a href="//youtube.com/@zavyer"><strong>YouTube</strong></a> •
   <a href="//t.me/zeccto"><strong>Telegram</strong></a> •
 </p>
-<p align="center">
-<a href="//trakteer.id/zeezxc/tip"><strong>Buy Me a Coffee ☕</strong></a>
-</p>
-
 <a href="https://github.com/wffzy">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=wffzy&count_private=true&show_icons=true&theme=chartreuse-dark" />
 </a>
