@@ -1,3 +1,4 @@
 ```javascript
-return null
+New Void return Void as Null
+
 ```
